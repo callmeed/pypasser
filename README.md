@@ -3,7 +3,7 @@ Py Passer
 
 Python script for calculating a quarterback's [passer rating](http://en.wikipedia.org/wiki/Passer_rating) 
 
-**Why?** Because I'm learning Python and the passer rating is one of my favorite ways to learn a new language (it usually involves math, conditionals, method arguments, type conversions, etc.). 
+**Why?** Because I'm learning Python and the passer rating is one of my favorite ways to learn basic new language features (it usually involves math, conditionals, function arguments, type conversions, etc.). 
 
 How to use it
 -----
